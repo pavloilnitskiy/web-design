@@ -15,5 +15,5 @@
 
 ### Посилання
 
-* **Звіт до лабораторної роботи (Google Drive):** https://docs.google.com/document/d/1O9MP1NQbAH9YEZWYjEa7FTft3Lwg3qlOwOPogDsqPbM/edit?tab=t.0
-* **Робоча версія сайту (GitHub Pages):** https://pavloilnitskiy.github.io/web-design/lab2/
+* **Звіт до лабораторної роботи (Google Drive):** https://docs.google.com/document/d/15pSr13500t3SSJS5WNUgEbYu4mqS0vnWJ0rk9zcA668/edit?tab=t.0
+* **Робоча версія сайту (GitHub Pages):** https://pavloilnitskiy.github.io/web-design/lab3/
